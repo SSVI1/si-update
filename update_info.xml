@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.6.25</version>
-    <url>https://github.com/febasz/si-blacklist/releases/download/v1.6.25/SystemIntegrity_v1.6.25.zip</url>
-    <changelog>https://github.com/febasz/si-blacklist/releases/tag/v1.6.2</changelog>
+    <url>https://github.com/SSVI1/si-update/releases/download/v1.6.25/SystemIntegrity_v1.6.25.zip</url>
+    <changelog>https://github.com/SSVI1/si-update/releases/tag/v1.6.25</changelog>
     <mandatory>true</mandatory>
 </item>
