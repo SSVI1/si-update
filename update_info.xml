@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.6.25</version>
-    <url>https://github.com/SSVI1/si-update/releases/download/v1.6.25/SystemIntegrity_v1.6.25.zip</url>
-    <changelog>https://github.com/SSVI1/si-update/releases/tag/v1.6.25</changelog>
+    <version>1.7.0</version>
+    <url>https://github.com/SSVI1/si-update/releases/download/v1.7/Axorin_v1.7.0.zip</url>
+    <changelog>https://github.com/SSVI1/si-update/releases/tag/v1.7</changelog>
     <mandatory>true</mandatory>
+    <checksum algorithm="SHA256">73d54288ebadd06105a8fb219a0e1896eb39cfa08cb9de7c23dfe2ca38f36d83</checksum>
 </item>
