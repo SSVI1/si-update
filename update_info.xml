@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.7.20</version>
-  <url>https://github.com/SSVI1/si-update/releases/download/v1.7.20/Axorin_v1.7.20_autoupdate.zip</url>
-  <changelog>https://github.com/SSVI1/si-update/releases/tag/v1.7.20</changelog>
+  <version>1.7.21</version>
+  <url>https://github.com/SSVI1/si-update/releases/download/v1.7.21/Axorin_v1.7.21_autoupdate.zip</url>
+  <changelog>https://github.com/SSVI1/si-update/releases/tag/v1.7.21</changelog>
   <mandatory>true</mandatory>
-  <checksum algorithm="SHA256">ecd2969664a95e693b0fc2dbd028c4619e528793b1784208d1dd1829303fdfea</checksum>
+  <checksum algorithm="SHA256">0248c116d54822c093aa8fb1bd4b4255125cf023fac824fe6a69c7e8bb21c20d</checksum>
 </item>
